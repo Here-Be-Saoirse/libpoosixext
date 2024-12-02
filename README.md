@@ -1,4 +1,4 @@
-# libpoosixext
+# libposixext
 Posixly questionable implementations of helpful functions (mostly used in the FractalKit Solaris 10 upgrade kit)
 ## What the hell is this?
 This is libposixext, a library containing a few helpful (at the moment, memory and time-related) functions to patch
